@@ -63,10 +63,10 @@ The output voltage is controlled by adjusting the PWM duty cycle, maintaining st
 
 ## Project Files
 ```
-├── Presentation.pdf          # Project presentation slides
+├── Presentation.pptx          # Project presentation slides
 ├── circuit_schematic.png     # LTspice circuit diagram
 ├── simulation_results/       # Voltage and current waveforms
-├── latex_report/            # Detailed technical report
+├── buck convertor.asc         
 └── README.md                # This file
 ```
 
